@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2MVT8rOP0ZSaO+qOM7kfp3lCyf7bfCdiVJtbvn+SMCuJSzJdsV+P+jAhbKsT/Hgd03D15FDKQdJIjRxRlhFR1w==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Azure_finOps\\FinOps_Dashboard\\FinOps_Dashboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prabu.arumugam\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\prabu.arumugam\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
