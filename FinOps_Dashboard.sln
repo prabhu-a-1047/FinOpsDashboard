@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinOps_Dashboard", "FinOps_Dashboard.csproj", "{D43AFB59-6811-4746-B557-2D3EDD33AABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D43AFB59-6811-4746-B557-2D3EDD33AABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43AFB59-6811-4746-B557-2D3EDD33AABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43AFB59-6811-4746-B557-2D3EDD33AABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43AFB59-6811-4746-B557-2D3EDD33AABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {090245F1-DA86-4C3B-B7D0-8F497AAFB543}
+	EndGlobalSection
+EndGlobal
